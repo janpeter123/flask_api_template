@@ -29,7 +29,7 @@ It also aims to standarize the documentation for future projects with a similar 
 ├── README.md
 ├── __pycache__
 ├── .env copy - Environment variables sample
-├── app.py - Main application, where all routes should be
+├── app.py - Main application, where all routes should be (This is valid for small applications only)
 ├── controllers - Folder where all functions that are used on routes should be
 └── requirements.txt - File with necessary packages to build the application
 ```
